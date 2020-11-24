@@ -31,7 +31,7 @@ In addition, for installing g++ on Mac, run simply
 
 * brew install gcc
 
-Installing Hombrew is in https://brew.sh/
+Installation guide for Hombrew is in https://brew.sh/
 
 
 
