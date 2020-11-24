@@ -7,7 +7,9 @@ a. The codes can be run with python 3.7.0 or higher on any operating system.
 
 b. We implemented the codes with python 3.7.0 on Mac.
 
-c. No non-standard hardware is required.
+c. It is required c++ and g++ for calculation of the Wasserstein distance. 
+
+d. No non-standard hardware is required.
 
 
 
@@ -25,6 +27,12 @@ plotly: 4.9.0
 ```
 We used the packages with the indicated version in the article.
 
+In addition, for installing g++ on Mac, run simply
+
+*brew install gcc
+
+Installing Hombrew is in https://brew.sh/
+
 
 
 ## Instructions for use the python codes
@@ -37,27 +45,27 @@ Run the codes at the directory ~/code/src:
 
 ### Figure 3 (a):
 
-python plot_heatmap.py
+*python plot_heatmap.py
 
 
 ### Figure 3 (b) and Figure 5:
 
-python run_prediction_day1.py
+*python run_prediction_day1.py
 
 
 ### Figure 3 (c):
 
-python plot_heatmap_cross.py
+*python plot_heatmap_cross.py
 
 
 ### Figure 3 (d):
 
-python run_prediction_day1_to_day2.py 
+*python run_prediction_day1_to_day2.py 
 
 
 ### Figreu 4(a), (b), and (c):
 
-python plot_attractor.py
+*python plot_attractor.py
 
 
 ### Figure 4 (d) 
@@ -77,30 +85,30 @@ You can unzip the zip file and find all files required for the calculation.
 
 ### Figure 6(a):
 
-python run_prediction_partial.py
+*python run_prediction_partial.py
 
 
 
 ### Figure 6(b):
 
-python run_prediction_partial_2.py
+*python run_prediction_partial_2.py
 
 
 
 ### Figure 7 (a):
 
-python run_prediction_realtime_day1.py
+*python run_prediction_realtime_day1.py
 
 
 ### Figure 7 (b):
 
-python run_prediction_realtime_day2.py
+*python run_prediction_realtime_day2.py
 
 
 ### Figure 7 (c):
 
 
-python run_prediction_realtime_day1+day2.py
+*python run_prediction_realtime_day1+day2.py
 
 
 
@@ -109,7 +117,7 @@ python run_prediction_realtime_day1+day2.py
 
 
 
-#Data resources:
+# Data resources:
 
 Folder: Data, which includes the time points of passing the intersections on Days 1 and 2 as the csv files.
 
