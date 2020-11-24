@@ -29,7 +29,7 @@ We used the packages with the indicated version in the article.
 
 In addition, for installing g++ on Mac, run simply
 
-*brew install gcc
+* brew install gcc
 
 Installing Hombrew is in https://brew.sh/
 
@@ -56,7 +56,7 @@ Run the codes at the directory ~/code/src:
 
 ### Figure 3 (c):
 
-*python plot_heatmap_cross.py
+* python plot_heatmap_cross.py
 
 
 ### Figure 3 (d):
