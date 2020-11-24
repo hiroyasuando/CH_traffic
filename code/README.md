@@ -3,13 +3,13 @@
 
 ## System requirements
 
-a. The codes can be run with python 3.7.0 or higher on any operating system.
+* The codes can be run with python 3.7.0 or higher on any operating system.
 
-b. We implemented the codes with python 3.7.0 on Mac.
+* We implemented the codes with python 3.7.0 on Mac.
 
-c. It is required c++ and g++ for calculation of the Wasserstein distance. 
+* It is required c++ and g++ for calculation of the Wasserstein distance. 
 
-d. No non-standard hardware is required.
+* No non-standard hardware is required.
 
 
 
@@ -46,12 +46,12 @@ Run the codes at the directory ~/code/src:
 
 ### Figure 3 (a):
 
-*python plot_heatmap.py
+* python plot_heatmap.py
 
 
 ### Figure 3 (b) and Figure 5:
 
-*python run_prediction_day1.py
+* python run_prediction_day1.py
 
 
 ### Figure 3 (c):
@@ -61,12 +61,12 @@ Run the codes at the directory ~/code/src:
 
 ### Figure 3 (d):
 
-*python run_prediction_day1_to_day2.py 
+* python run_prediction_day1_to_day2.py 
 
 
 ### Figreu 4(a), (b), and (c):
 
-*python plot_attractor.py
+* python plot_attractor.py
 
 
 ### Figure 4 (d) 
@@ -86,30 +86,30 @@ You can unzip the zip file and find all files required for the calculation.
 
 ### Figure 6(a):
 
-*python run_prediction_partial.py
+* python run_prediction_partial.py
 
 
 
 ### Figure 6(b):
 
-*python run_prediction_partial_2.py
+* python run_prediction_partial_2.py
 
 
 
 ### Figure 7 (a):
 
-*python run_prediction_realtime_day1.py
+* python run_prediction_realtime_day1.py
 
 
 ### Figure 7 (b):
 
-*python run_prediction_realtime_day2.py
+* python run_prediction_realtime_day2.py
 
 
 ### Figure 7 (c):
 
 
-*python run_prediction_realtime_day1+day2.py
+* python run_prediction_realtime_day1+day2.py
 
 
 
