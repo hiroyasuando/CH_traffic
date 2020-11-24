@@ -7,6 +7,7 @@ Please cite the article if you use the code.
 
 ## Arxiv preprint
 
+https://arxiv.org/abs/2011.10744
 
 ## Contact
 
