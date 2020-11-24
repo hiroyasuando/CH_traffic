@@ -39,7 +39,8 @@ Installing Hombrew is in https://brew.sh/
 
 
 
-Run CH algorithm (for drawing the figures in the article) as follows at.
+Run CH algorithm (for drawing the figures in the article) as follows.
+
 Run the codes at the directory ~/code/src:
 
 
